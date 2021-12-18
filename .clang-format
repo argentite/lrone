@@ -1,0 +1,3 @@
+BasedOnStyle: LLVM
+#BinPackArguments: false
+AlignAfterOpenBracket: AlwaysBreak

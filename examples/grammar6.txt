@@ -1,0 +1,6 @@
+stmt cond if then else end
+S C
+S stmt
+S if C then S end
+S if C then S else S end
+C cond
